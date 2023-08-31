@@ -1,0 +1,54 @@
+body {
+    font-family: system-ui;
+}
+
+header h1 {
+    margin: 1%;
+    background-color: rgb(20, 184, 96);
+    padding: 10px;
+    text-align: center;
+    border-radius: 4px;
+    color: white;
+    text-shadow: 2px 2px black;
+}
+
+.info-personal {
+    background-color: rgb(212, 208, 208);
+    height: 200px;
+}
+
+.habilidades {
+    background-color: rgb(212, 208, 208);
+    height: 200px;
+}
+
+
+.info-personal h2 {
+    background-color: rgb(192, 192, 192);
+    padding: 10px;
+}
+
+.habilidades h2 {
+    background-color: rgb(192, 192, 192);
+    padding: 10px;
+}
+
+.habilidades ul li {
+    padding-bottom: 10px;
+}
+
+.info-personal p {
+    padding-left: 10px;
+}
+
+.habilidades p {
+    padding-left: 10px;
+}
+
+footer p {
+    background-color: rgb(100, 99, 99);
+    padding: 1%;
+    color: white;
+    font-weight: 500;
+    border-radius: 4px;
+}
